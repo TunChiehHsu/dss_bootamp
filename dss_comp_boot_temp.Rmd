@@ -1,6 +1,6 @@
 ---
 title: "DSS Computing Bootcamp Template"
-author: "Tun Chieh Hsu Eric123"
+author: "Tun Chieh Hsu"
 date: "8/27/2016"
 output: html_document
 ---
